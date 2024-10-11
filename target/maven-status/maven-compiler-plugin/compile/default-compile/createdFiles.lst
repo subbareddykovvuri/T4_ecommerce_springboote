@@ -1,0 +1,11 @@
+com/fresco/ecommerce/repo/UserRepo.class
+com/fresco/ecommerce/repo/ProductRepo.class
+com/fresco/ecommerce/models/Cart.class
+com/fresco/ecommerce/repo/CartProductRepo.class
+com/fresco/ecommerce/repo/CategoryRepo.class
+com/fresco/ecommerce/models/CartProduct.class
+com/fresco/ecommerce/models/Category.class
+com/fresco/ecommerce/models/Product.class
+com/fresco/ecommerce/models/User.class
+com/fresco/ecommerce/repo/CartRepo.class
+com/fresco/ecommerce/ECommerceApplication.class

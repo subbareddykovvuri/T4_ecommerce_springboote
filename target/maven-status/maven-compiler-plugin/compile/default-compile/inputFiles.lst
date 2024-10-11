@@ -1,0 +1,12 @@
+/home/labuser/Desktop/Project/t4_ecommerce_springboote/src/main/java/com/fresco/ecommerce/models/Category.java
+/home/labuser/Desktop/Project/t4_ecommerce_springboote/src/main/java/com/fresco/ecommerce/models/CartProduct.java
+/home/labuser/Desktop/Project/t4_ecommerce_springboote/src/main/java/com/fresco/ecommerce/repo/CategoryRepo.java
+/home/labuser/Desktop/Project/t4_ecommerce_springboote/src/main/java/com/fresco/ecommerce/models/User.java
+/home/labuser/Desktop/Project/t4_ecommerce_springboote/src/main/java/com/fresco/ecommerce/models/Cart.java
+/home/labuser/Desktop/Project/t4_ecommerce_springboote/src/main/java/com/fresco/ecommerce/repo/ProductRepo.java
+/home/labuser/Desktop/Project/t4_ecommerce_springboote/src/main/java/com/fresco/ecommerce/repo/CartProductRepo.java
+/home/labuser/Desktop/Project/t4_ecommerce_springboote/src/main/java/com/fresco/ecommerce/ECommerceApplication.java
+/home/labuser/Desktop/Project/t4_ecommerce_springboote/src/main/java/com/fresco/ecommerce/repo/UserRepo.java
+/home/labuser/Desktop/Project/t4_ecommerce_springboote/src/main/java/com/fresco/ecommerce/models/Role.java
+/home/labuser/Desktop/Project/t4_ecommerce_springboote/src/main/java/com/fresco/ecommerce/repo/CartRepo.java
+/home/labuser/Desktop/Project/t4_ecommerce_springboote/src/main/java/com/fresco/ecommerce/models/Product.java
